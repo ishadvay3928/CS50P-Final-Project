@@ -29,7 +29,7 @@ The **Medical Diagnosis System** is a Python program that diagnoses diseases bas
 ## Installation  
 1. Clone this repository:  
    ```sh
-   git clone https://github.com/ishadvay3928/CS50P-Final-Project/tree/main
+   git clone https://github.com/ishadvay3928/CS50P-Final-Project
    ```  
 2. Navigate to the project directory:  
    ```sh
